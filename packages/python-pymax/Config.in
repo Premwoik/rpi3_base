@@ -1,0 +1,6 @@
+config BR2_PACKAGE_PYTHON_PYMAX
+	bool "python-pymax"
+	help
+	  Python implementation of the ELV MAX! Cube API.
+
+	  https://ercpe.de/projects/pymax

@@ -1,0 +1,6 @@
+config BR2_PACKAGE_PYTHON_ERLPORT
+	bool "python-erlport"
+	help
+	  Erlang port protocol.
+
+	  http://github.com/hdima/erlport

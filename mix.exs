@@ -64,10 +64,10 @@ defmodule Rpi3Base.MixProject do
 
   defp package do
     [
-      maintainers: ["Frank Hunleth", "Justin Schneck"],
+      maintainers: ["Przemysław Wojtasik"],
       files: package_files(),
       licenses: ["Apache 2.0"],
-      links: %{"GitHub" => "https://github.com/nerves-project/#{@app}"}
+      links: %{"GitHub" => "https://github.com/Premwoik/#{@app}"}
     ]
   end
 

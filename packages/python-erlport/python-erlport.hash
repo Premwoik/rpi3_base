@@ -1,0 +1,5 @@
+# md5, sha256 from https://pypi.org/pypi/erlport/json
+md5	852745e9f2ca90f7c802ee7ae9b015ad  erlport-0.6.tar.gz
+sha256	bbd894e1502a00964bca8a84283048cee599234b5a59fffa21c82e09366a399c  erlport-0.6.tar.gz
+# Locally computed sha256 checksums
+sha256	d1b1cb6c6afd241a4584d6c8fea8bd431e5b8615f2bfa3dcf30888736415bf02  LICENSE
